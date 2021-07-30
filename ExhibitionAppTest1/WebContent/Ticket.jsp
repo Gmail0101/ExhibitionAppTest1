@@ -3,7 +3,7 @@
 <%@ include file="./include/Header.jsp" %>
 <%@ include file="./include/incLogin.jsp" %>
 <br/><br/>
-<h3 class="text-center">전시회 목록</h3>
+<h3 class="text-center">예매내역</h3>
 <section class="row">
 <%
 String sql = "select * from tickets";

@@ -35,10 +35,10 @@
 						<td><%=placename %></td>
 						<td><%=rlocation %></td>
 						<td><%=contactno %></td>
-						<td><%=times %></td>
+						<td><%=times %> </td>
 						<td><%=holiday %></td>
 					<td>
-					<form action="ExplaceModiFrm.jsp" post="get">
+					<form action="ExplaceModiFrm.jsp" method="get">
 						<input type="hidden" value="<%=codes%>" name="CodeChk"/>
 						<input type="submit" value="수정" class="btn btn-success"/>
 					</form>

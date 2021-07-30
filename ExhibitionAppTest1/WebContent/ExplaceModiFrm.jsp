@@ -51,7 +51,7 @@
 					</tr>
 					<tr>
 						<th>운영시간</th>
-						<td><input type="text" maxlength="13" name="times" value="<%=times %>" class="form-control" />
+						<td><input type="text" name="times" value="<%=times %>" class="form-control" />
 						</td>
 					</tr>
 					<tr>

@@ -11,7 +11,7 @@
 		<a href="Ticket.jsp" class="btn btn-danger">예매내역</a>
 		<a href="Exhibition.jsp" class="btn btn-warning">전시회목록</a>
 		<a href="Explace.jsp" class="btn btn-success">전시관목록</a>
-		<a href="Explace.jsp" class="btn btn-info">관람권 구매</a>
+		<a href="Reservation.jsp" class="btn btn-info">관람권 구매</a>
 		<a href="Customers.jsp" class="btn btn-primary">회원관리</a>
 	</nav>
 	</div>
